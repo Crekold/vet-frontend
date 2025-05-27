@@ -22,14 +22,8 @@
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.2.1",
-<<<<<<< HEAD
-<<<<<<< HEAD
     "express": "^4.18.2",
     "terser": "^5.19.2",
-=======
->>>>>>> parent of f0ccc80 (feat: implementar configuración de Content Security Policy (CSP) y scripts de verificación)
-=======
->>>>>>> parent of f0ccc80 (feat: implementar configuración de Content Security Policy (CSP) y scripts de verificación)
     "vite": "^6.2.0"
   }
 }
